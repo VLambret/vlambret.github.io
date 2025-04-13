@@ -18,8 +18,18 @@
     <link href="https://vlambret.github.io/fr/tags/francais/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://vlambret.github.io/fr/tags/francais/" rel="alternate" type="text/html"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2025-03-29T00:00:00+00:00</updated>
+    <updated>2025-04-13T00:00:00+00:00</updated>
     <id>https://vlambret.github.io/fr/tags/francais/atom.xml</id><entry xml:lang="fr">
+        <title>2023 - Regard scientifique sur l&#x27;artisanat logiciel</title>
+        <published>2025-04-13T00:00:00+00:00</published>
+        <updated>2025-04-13T00:00:00+00:00</updated>
+        <author>
+            <name>Victor Lambret</name>
+        </author>
+        <link rel="alternate" href="https://vlambret.github.io/fr/talks/2023-regard-scientifique-artisanat-logiciel/" type="text/html"/>
+        <id>https://vlambret.github.io/fr/talks/2023-regard-scientifique-artisanat-logiciel/</id>
+        <summary type="html">Un mix de deux conférences précédentes</summary>
+        </entry><entry xml:lang="fr">
         <title>2020 - Artisanat logiciel, un regard zététique</title>
         <published>2025-03-29T00:00:00+00:00</published>
         <updated>2025-03-29T00:00:00+00:00</updated>

@@ -18,8 +18,18 @@
     <link href="https://vlambret.github.io/tags/45-minutes/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://vlambret.github.io/tags/45-minutes/" rel="alternate" type="text/html"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2025-03-29T00:00:00+00:00</updated>
+    <updated>2025-04-13T00:00:00+00:00</updated>
     <id>https://vlambret.github.io/tags/45-minutes/atom.xml</id><entry xml:lang="en">
+        <title>2023 - A Critical Scientific Perspective on Software Craft</title>
+        <published>2025-04-13T00:00:00+00:00</published>
+        <updated>2025-04-13T00:00:00+00:00</updated>
+        <author>
+            <name>Victor Lambret</name>
+        </author>
+        <link rel="alternate" href="https://vlambret.github.io/talks/2023-regard-scientifique-artisanat-logiciel/" type="text/html"/>
+        <id>https://vlambret.github.io/talks/2023-regard-scientifique-artisanat-logiciel/</id>
+        <summary type="html">A mix of two previous conferences</summary>
+        </entry><entry xml:lang="en">
         <title>2020 - Scientific skepticism on software craft</title>
         <published>2025-03-29T00:00:00+00:00</published>
         <updated>2025-03-29T00:00:00+00:00</updated>

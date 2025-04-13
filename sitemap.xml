@@ -61,6 +61,9 @@
         <loc>https://vlambret.github.io/fr/tags/francais/</loc>
     </url>
     <url>
+        <loc>https://vlambret.github.io/fr/tags/itl/</loc>
+    </url>
+    <url>
         <loc>https://vlambret.github.io/fr/tags/tdd/</loc>
     </url>
     <url>
@@ -72,6 +75,10 @@
     <url>
         <loc>https://vlambret.github.io/fr/talks/2020-zetetique/</loc>
         <lastmod>2025-03-29</lastmod>
+    </url>
+    <url>
+        <loc>https://vlambret.github.io/fr/talks/2023-regard-scientifique-artisanat-logiciel/</loc>
+        <lastmod>2025-04-13</lastmod>
     </url>
     <url>
         <loc>https://vlambret.github.io/tags/</loc>
@@ -89,6 +96,9 @@
         <loc>https://vlambret.github.io/tags/french/</loc>
     </url>
     <url>
+        <loc>https://vlambret.github.io/tags/itl/</loc>
+    </url>
+    <url>
         <loc>https://vlambret.github.io/tags/popularized-science/</loc>
     </url>
     <url>
@@ -100,5 +110,9 @@
     <url>
         <loc>https://vlambret.github.io/talks/2020-zetetique/</loc>
         <lastmod>2025-03-29</lastmod>
+    </url>
+    <url>
+        <loc>https://vlambret.github.io/talks/2023-regard-scientifique-artisanat-logiciel/</loc>
+        <lastmod>2025-04-13</lastmod>
     </url>
 </urlset>
