@@ -58,10 +58,19 @@
         <loc>https://vlambret.github.io/fr/tags/clean-code/</loc>
     </url>
     <url>
+        <loc>https://vlambret.github.io/fr/tags/estimations/</loc>
+    </url>
+    <url>
         <loc>https://vlambret.github.io/fr/tags/francais/</loc>
     </url>
     <url>
         <loc>https://vlambret.github.io/fr/tags/itl/</loc>
+    </url>
+    <url>
+        <loc>https://vlambret.github.io/fr/tags/noestimates/</loc>
+    </url>
+    <url>
+        <loc>https://vlambret.github.io/fr/tags/story-points/</loc>
     </url>
     <url>
         <loc>https://vlambret.github.io/fr/tags/tdd/</loc>
@@ -81,6 +90,10 @@
         <lastmod>2025-04-13</lastmod>
     </url>
     <url>
+        <loc>https://vlambret.github.io/fr/talks/2024-no-estimates/</loc>
+        <lastmod>2025-04-16</lastmod>
+    </url>
+    <url>
         <loc>https://vlambret.github.io/tags/</loc>
     </url>
     <url>
@@ -93,13 +106,22 @@
         <loc>https://vlambret.github.io/tags/clean-code/</loc>
     </url>
     <url>
+        <loc>https://vlambret.github.io/tags/estimations/</loc>
+    </url>
+    <url>
         <loc>https://vlambret.github.io/tags/french/</loc>
     </url>
     <url>
         <loc>https://vlambret.github.io/tags/itl/</loc>
     </url>
     <url>
+        <loc>https://vlambret.github.io/tags/noestimates/</loc>
+    </url>
+    <url>
         <loc>https://vlambret.github.io/tags/popularized-science/</loc>
+    </url>
+    <url>
+        <loc>https://vlambret.github.io/tags/story-points/</loc>
     </url>
     <url>
         <loc>https://vlambret.github.io/tags/tdd/</loc>
@@ -114,5 +136,9 @@
     <url>
         <loc>https://vlambret.github.io/talks/2023-regard-scientifique-artisanat-logiciel/</loc>
         <lastmod>2025-04-13</lastmod>
+    </url>
+    <url>
+        <loc>https://vlambret.github.io/talks/2024-no-estimates/</loc>
+        <lastmod>2025-04-16</lastmod>
     </url>
 </urlset>
